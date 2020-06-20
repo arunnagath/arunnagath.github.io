@@ -14,7 +14,8 @@ sass:
 plainwhite:
   name: Arun Nagath
   tagline: Security Enthusiast
-  India 
+  tagline: Test
+  
   date_format: "%d %-b, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
