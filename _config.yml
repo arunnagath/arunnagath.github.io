@@ -13,8 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Arun Nagath
-  tagline: Security Enthusiast 
-  tagline: India
+  tagline: Security Enthusiast
   date_format: "%d %-b, %Y"  
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
