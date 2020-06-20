@@ -70,13 +70,12 @@ Everybody knows what <a href="https://nmap.org/">Nmap</a> as it’s one of the f
 # Summary
 Reconnaissance, attackers will have enough information to proceed or cancel a cyber-attack. From an external reconnaissance, they will know the behavior of users and use it to an organization's disadvantage. The aim is only to find some form of weakness that attackers can then use to gain entry to the networks or systems of an organization. Internal reconnaissance, on the other hand, will enable attackers to learn more about the network in question. Some of the discussed tools are extremely powerful and give so much information that it could be thought of as being leaked by the network designers themselves. The attackers become knowledgeable about the vulnerabilities they can exploit within a network or system of an organization. At the end of this stage, attackers are then able to engage an organization on two fronts: either from the users' side or internally from the network's vulnerabilities.
 
+ Best of luck for all of your future infosec things.
 
-    Best of luck for all of your future infosec things.
-
-    If you have questions and anything about the post you want to ask me, Please contact me via <a href="https://twitter.com/arun_nagath">Twitter</a>/<a href="https://www.linkedin.com/in/arunnagath/">Linkedin</a>. I’ll have my DM open.
+ If you have questions and anything about the post you want to ask me, Please contact me via <a  href="https://twitter.com/arun_nagath">Twitter</a>/<a href="https://www.linkedin.com/in/arunnagath/">Linkedin</a>. I’ll have my DM  open.
     Feedbacks and edits are welcome
 
-    Until next time!!! :)
+   Until next time!!! :)
 
  
 
